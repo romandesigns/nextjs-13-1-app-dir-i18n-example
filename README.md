@@ -15,5 +15,4 @@ pnpm dev
 App reference
 https://github.com/vercel/next.js/tree/canary/examples/app-dir-i18n-routing
 
-## DEMO
-https://nextjs-13-1-app-dir-i18n-example.vercel.app/cs
+## [DEMO](https://nextjs-13-1-app-dir-i18n-example.vercel.app)
