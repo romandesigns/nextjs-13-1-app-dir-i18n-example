@@ -1,0 +1,20 @@
+{
+	"server-component": {
+		"welcome": "Vítejte"
+	},
+	"counter": {
+		"increment": "Přidat",
+		"decrement": "Ubrat"
+	},
+	"about": {
+		"sentence": "Toto je stránka o produktu"
+	},
+	"contact": {
+		"sentence": "Toto je kontaktní stránka"
+	},
+	"nav": {
+		"home": "Domov",
+		"about": "O nás",
+		"contact": "Kontaktujte nás"
+	}
+}

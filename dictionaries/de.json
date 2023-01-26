@@ -1,0 +1,20 @@
+{
+	"server-component": {
+		"welcome": "Willkommen"
+	},
+	"counter": {
+		"increment": "Zuwachs",
+		"decrement": "Dekrementieren"
+	},
+	"about": {
+		"sentence": "Dies ist die About-Seite"
+	},
+	"contact": {
+		"sentence": "Dies ist die Kontaktseite"
+	},
+	"nav": {
+		"home": "Heim",
+		"about": "Über uns",
+		"contact": "Kontaktiere uns"
+	}
+}
